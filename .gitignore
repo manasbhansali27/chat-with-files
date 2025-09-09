@@ -1,0 +1,33 @@
+# Virtual environments
+chatbot_env/
+venv/
+.env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Databases and indices
+indices/
+*.db
+*.sqlite
+*.sqlite3
+
+# Cache and logs
+cache/
+logs/
+*.log
+
+# Model weights / checkpoints
+*.pth
+*.pt
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE configs
+.vscode/
+.idea/

@@ -1,0 +1,39 @@
+# Core AI / LLMs
+torch
+torchvision
+torchaudio
+transformers
+sentence-transformers
+timm
+ollama
+tiktoken
+regex
+
+# Vector Database
+faiss-cpu
+
+# OCR & Image Processing
+easyocr
+pytesseract
+pillow
+opencv-python
+
+# Document Parsing
+PyMuPDF
+pdfplumber
+python-docx
+python-pptx
+pypdf
+
+# Audio / Video
+moviepy
+ffmpeg-python
+openai-whisper
+
+# Data & Utils
+numpy
+pandas
+scikit-learn
+scipy
+tqdm
+requests
