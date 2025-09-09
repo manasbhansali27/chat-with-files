@@ -32,23 +32,14 @@ VIDEO_EXTS = [".mp4", ".avi", ".mov", ".mkv", ".wmv", ".flv"]
 # FOLDER SCANNING
 # =====================
 FOLDERS_TO_SCAN = [
-    "C:/Users/mmbha/C++ PROGRAMMING",
     "C:/Users/mmbha/Desktop",
     "C:/Users/mmbha/Downloads",
     "C:/Users/mmbha/Music",
     "C:/Users/mmbha/Pictures",
-    "C:/Users/mmbha/gemini_llm",
-    "C:/Users/mmbha/h",
-    "C:/Users/mmbha/JS",
-    "C:/Users/mmbha/onespace",
-    "C:/Users/mmbha/PYTHON",
     "C:/Users/mmbha/Videos",
-    "C:/Users/mmbha/web development",
 ]
 
 EXCLUDE_FOLDERS = [
-    r"C:/Users/mmbha/Downloads/local_file_chatbot",
-    "C:/Users/mmbha/Downloads\\local_file_chatbot",
     "C:/Users/mmbha\\AppData",
     "c:/Users/mmbha\\.ipython",
     "C:/Users/mmbha\\.cache",
