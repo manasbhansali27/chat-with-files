@@ -84,3 +84,19 @@ indices/
 - **Ollama** – Local model runtime (for chatbot + LLaVA integration)  
 - **LLaVA (Vision-Language Model via Ollama)** – Image/video summarisation  
 
+##  Chatbot Demo
+<img width="1350" height="893" alt="sample1" src="https://github.com/user-attachments/assets/c6b780c5-2a8d-4de6-87da-4d2931271745" />                           
+<p align="center">
+  Fig. 1. Searching for the question paper and answering the questions
+</p>
+
+<img width="1465" height="764" alt="sample 2" src="https://github.com/user-attachments/assets/8cf86cb1-c1d3-4807-a77e-b3100781e7d7" />
+<p align="center">
+  Fig. 2. Finding badminton-related videos and summarizing the initial frames of the video
+</p>
+
+
+<img width="1344" height="841" alt="sample 3" src="https://github.com/user-attachments/assets/6f317945-ebfe-421a-a94a-dc9b2ae6ba7c" />
+<p align="center">
+  Fig. 3. Finding the Aadhar card from the documents and extracting the information 
+</p>
